@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body{
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+}
+legend{
+	margin-left: 40%;
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+	color: white;
+}
+label{
+	margin-left: 45%;
+	margin-top: 10px;
+	padding: 15px;
+	font-family: 'Anton', sans-serif;
+	font-size: 19px;
+	color: white;
+}
+input{
+	margin-left: 46%;
+	font-family: 'Anton', sans-serif;
+	font-size: 19px;
+	color: white;
+}
+button{
+	margin-left: 75%;
+	margin-top: 15px;
+	font-family: 'Anton', sans-serif;
+	font-size: 19px;
+	color: white;
+	background-color: blue;
+	width: 100px;
+	border: solid 3px black;
+}
+textarea{
+	margin-left: 48%;
+	margin-top: 10px;
+	font-family: 'Anton', sans-serif;
+	font-size: 19px;
+	color: white;
+}
+.form-group{
+	margin-top: 30px;
+	font-family: 'Anton', sans-serif;
+	font-size: 19px;
+	color: white;
+	margin-left: -50px;
+}
+.questionario{
+	margin-top: 45px;
+	margin-left: 40%;
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+	color: white;
+}
+.unica1{
+	margin-left: 90px;
+	font-family: 'Anton', sans-serif;
+	font-size: 19px;
+	color: white;
+}
+#comentario{
+	width: 250px;
+	height: 250px;
+	resize: none;
+	border-radius: 10px;
+	font-family: 'Anton', sans-serif;
+	font-size: 19px;
+	color: black;
+}
